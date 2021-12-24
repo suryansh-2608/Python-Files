@@ -1,0 +1,8 @@
+python -> p _ _ _ o _ 6
+
+1. Word
+2. we will have to create dashes as per the number of words
+3. Check function: To check whether the alphabet guessed by the user is correct or not
+4. So we need a function to update current status
+5. Loop if game is won by the user or no more chances are left
+6. Function to check whether the game has ended or not
